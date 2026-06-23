@@ -49,6 +49,8 @@ I am a **Data Science Student** and **AI Enthusiast** passionate about building 
 |   1   |     **Dashboard Analisis Gaji**      | Salary analysis dashboard for a government office in Lampung 2025<br/>*(dashboard ini tidak bisa dipublish karena mengandung data sensitif)* | `Python` `Streamlit` `Data Analysis` |
 |   2   | [**Text Feedback Sentiment Analyzer**](https://nlp-project-chi.vercel.app/) | NLP-powered customer feedback sentiment detection using Naive Bayes |     `Python` `NLP` `ML` `React`      |
 |   3   | [**Fire & Smoke Detection**](https://fire-smoke-detection-xi.vercel.app/) |  Real-time fire/smoke detection using YOLOv8 with FastAPI backend   |    `Python` `JS` `Docker` `YOLO`     |
+|   4   | [**Dashboard Penjualan Apotek**](https://dashboard-penjualan-apotek-tahun-20.vercel.app/) | Interactive web-based pharmacy sales analytics dashboard for Indonesia sales data in 2015 | `Next.js` `TypeScript` `Python` `Recharts` |
+
 
 </div>
 
