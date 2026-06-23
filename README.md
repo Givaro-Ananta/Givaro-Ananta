@@ -85,7 +85,7 @@ I am a **Data Science Student** and **AI Enthusiast** passionate about building 
 
 <br/>
 
-**Built with 💜 by [Givaro Ananta](https://github.com/Givaro-Ananta)**
+**[Givaro Ananta](https://github.com/Givaro-Ananta)**
 
 <br/>
 
