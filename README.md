@@ -16,6 +16,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@givarooo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/givarooo)
 [![Email](https://img.shields.io/badge/Email-givaroananta02@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:givaroananta02@gmail.com)
 
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Givaro-Ananta.Givaro-Ananta&left_color=gray&right_color=blueviolet&left_text=visitors)
+
 </div>
 
 ---
